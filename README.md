@@ -2,7 +2,7 @@
 
 ![screenshot](screenshot.png)
 
-**Live demo:** [audrey-invite-demo.netlify.app](https://audrey-invite-demo.netlify.app)
+**Live demo:** [audrey-invite-demo.netlify.app]([[https://audrey-invite-demo.netlify.app)]
 
 A two-page event invitation website built from scratch in HTML and CSS, and my first site I designed, built and put online myself.
 
